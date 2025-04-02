@@ -1,7 +1,7 @@
 
 import React from 'react';
 import { Button } from "@/components/ui/button";
-import { ChevronRight, Flame, Gauge, Timer } from 'lucide-react';
+import { ChevronRight, Flame, Gauge, Timer, Car, MapPin, Trophy } from 'lucide-react';
 
 const HeroSection = () => {
   return (
